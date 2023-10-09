@@ -1,0 +1,25 @@
+/******************************************************************************
+Encontrar longitud del cable  
+Autor: Elisa Michelle MV.
+Fecha: 230322
+*******************************************************************************/
+   
+#include <iostream>
+  using namespace std;
+
+int
+main () 
+{
+  
+    //DeclaraciC3n de variables 
+    float longitudCable, altura, base ;
+  
+ 
+    //Entrada de datos por teclado y procedimientos 
+longitudCable = 4 * 5,
+std::cout<< " La longitud del cable es igual a  " << longitudCable <<std::endl;
+  
+ 
+return 0;
+
+}
